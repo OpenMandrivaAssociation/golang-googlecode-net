@@ -1,0 +1,35 @@
+hash: 3975be9ab21dbf213c3466355509c75999ea0a86ecadbd6d3b27d4470efe7a09
+imports:
+- name: golang.org/x/sys
+  subpackages:
+  - unix
+  version: bff228c7b664c5fce602223a05fb708fd8654986
+- name: golang.org/x/crypto
+  subpackages:
+  - ssh/terminal
+  version: 8ac0e0d97ce45cd83d1d7243c060cb8461dda5e9
+- name: golang.org/x/text
+  subpackages:
+  - unicode/norm
+  - encoding/unicode
+  - encoding/internal/identifier
+  - transform
+  - internal/utf8internal
+  - encoding/simplifiedchinese
+  - internal/tag
+  - encoding/korean
+  - runes
+  - internal/language
+  - encoding/htmlindex
+  - encoding/internal
+  - secure/bidirule
+  - internal/language/compact
+  - encoding/japanese
+  - language
+  - encoding
+  - encoding/charmap
+  - unicode/bidi
+  - encoding/traditionalchinese
+  version: 5c1cf69b5978e5a34c5f9ba09a83e56acc4b7877
+updated: '2018-07-02T12:59:49.233350+00:00'
+
